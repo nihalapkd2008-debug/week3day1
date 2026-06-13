@@ -38,20 +38,19 @@ console.log(`Remainder: ${a % b}`);
 console.log("----- String-----");
 
 let firstName = "Nihala";
-let lastname = "Nasreen";
+let lastName = "Nasreen AS";
 
-let fullName = firstname + " " + lastName;
+let fullName = firstName + " " + lastName;
 
-console.log(`fullName = ${fullname}`);
+console.log(`fullName = ${fullName}`);
 
 
 // 5. Debug Values Using Console
 
 console.log("----- Debug Values -----");
 
-console.log(studentName);
-console.log(`age`);
-console.log(`course`);
-console.log(`city`);
-console.log(`fullName`);
-
+console.log(name);
+console.log(age);
+console.log(course);
+console.log(city);
+console.log(fullName);
