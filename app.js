@@ -1,4 +1,4 @@
-// student profile data
+//1.  student profile data
 
 // variables
 
@@ -20,7 +20,7 @@ console.log('-----Student Profile------');
  console.log(`I am learning ${course}`);
  console.log(`I live in ${city}`);
 
-//  operators
+//  3. operators
 
 let a = 20;
 let b = 5;
@@ -33,7 +33,7 @@ console.log(`Multiplication: ${a * b}`);
 console.log(`Division: ${a / b}`);
 console.log(`Remainder: ${a % b}`);
 
-// string 
+// 4. string 
 
 console.log("----- String-----");
 
@@ -42,4 +42,16 @@ let lastname = "Nasreen";
 
 let fullName = firstname + " " + lastName;
 
+console.log(`fullName = ${fullname}`);
+
+
+// 5. Debug Values Using Console
+
+console.log("----- Debug Values -----");
+
+console.log(studentName);
+console.log(`age`);
+console.log(`course`);
+console.log(`city`);
+console.log(`fullName`);
 
