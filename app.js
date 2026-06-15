@@ -25,7 +25,6 @@ console.log('-----Student Profile------');
 
 let a = 20;
 let b = 5;
-
 console.log("----- Arithmetic-----");
 
 console.log(`Addition: ${a + b}`);
