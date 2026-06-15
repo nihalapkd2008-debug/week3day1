@@ -1,11 +1,12 @@
 //1.  student profile data
 
-// variables
+// variable
 
-let name = "Nihala nasreen AS";
+let name = "nihala";
 let age = 18;
-let course = "JavaScript";
-let city = "Palakkad";
+let course = "js";
+let city = "kannur";
+ 
 
 // 2. Print Student Profile
 
